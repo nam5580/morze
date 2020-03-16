@@ -2,3 +2,5 @@ ipch/
 x64/
 morze/x64/
 *.sdf
+*.opensdf
+*.suo
